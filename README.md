@@ -1,4 +1,4 @@
-![Hi, I'm Jeferson Marcante. Welcome to my profile.](https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=C9D1D9&multiline=true&width=460&lines=Hi%2C+I'm+Jeferson+Marcante.+Welcome+to+my+profile.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jeferson+Marcante.;Welcome+to+my+profile.)
 
 ### About me
 
