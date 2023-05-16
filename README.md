@@ -6,6 +6,10 @@
   - I'm a Electronics Technician
   - My focus is back-end programming and embedded systems
 
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 <!--
 **JefersonMarcante/JefersonMarcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
