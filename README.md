@@ -10,7 +10,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) -->
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <!-- ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assembly) -->
 <!-- ![Object-Pascal](https://img.shields.io/badge/Pascal-B0CE4E?style=flat-square&logo=pascal&logoColor=white) -->
 
