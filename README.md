@@ -22,8 +22,8 @@
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) -->
 
 <!-- Electronics Design Platforms -->
+![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-14354C?style=for-the-badge&logo=Eagle&logoColor=white)
 ![Kicad](https://img.shields.io/badge/Kicad-14354C?style=for-the-badge&logo=kicad&logoColor=white)
-<!-- ![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-14354C?style=flat-square&logo=Autodesk_Eagle&logoColor=white) -->
 <!-- ![Autodesk Fusion 360](https://img.shields.io/badge/Autodesk_Fusion360-14354C?style=flat-square&logo=Fusion360&logoColor=white) -->
 
 <!-- Prototyping Platforms -->
