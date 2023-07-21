@@ -6,7 +6,8 @@
   - I'm a Electronics Technician
   - My focus is back-end programming and embedded systems
 
-<!-- Languages -->
+### Learning
+#### Programming languages: 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +22,14 @@
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) -->
 
+<!-- Web Frameworks -->
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
+<!-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) -->
+<!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) -->
+<!-- ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) -->
+
 <!-- Electronics Design Platforms -->
+#### PCB design & schematic:
 ![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-14354C?style=for-the-badge&logo=Eagle&logoColor=white)
 ![Kicad](https://img.shields.io/badge/Kicad-14354C?style=for-the-badge&logo=kicad&logoColor=white)
 <!-- ![Autodesk Fusion 360](https://img.shields.io/badge/Autodesk_Fusion360-14354C?style=flat-square&logo=Fusion360&logoColor=white) -->
@@ -30,6 +38,11 @@
 <!-- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) -->
 <!-- ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) -->
 <!-- ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) -->
+
+<!-- Plataforms -->
+<!-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) -->
+<!--![AndroidStudio](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) -->
+<!--![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) -->
 
 <!-- Mobile Frameworks -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) -->
@@ -49,7 +62,7 @@
 <!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) --> 
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
-<!--
+<!-- :star:
 **JefersonMarcante/JefersonMarcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -66,18 +79,4 @@ Here are some ideas to get you started:
 ![Jeferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonMarcante&theme=dark&hide=stars,commits,prs,issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMarcante&layout=compact&langs_count=5&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JefersonMarcante&repo={Repo})
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
-
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-![AndroidStudio](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 -->
