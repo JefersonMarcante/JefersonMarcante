@@ -1,9 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jeferson+Marcante.;Welcome+to+my+profile.)
 
 ## About me
-  - Computer Engineering: Studying
-  - I'm a Electronics Technician
-  - My focus is back-end programming and embedded systems
+I am an Electronics Technician and currently a Computer Engineering student. My areas of interest are back-end programming and embedded systems.
 
 ## Learning
 **Programming languages:**
